@@ -28,7 +28,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-4xl md:text-6xl font-bold text-white"
           >
-            João Silva
+            Guilherme Bellia
           </motion.h2>
 
           <motion.h3
