@@ -72,7 +72,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © {new Date().getFullYear()} João Silva. Todos os direitos
+            © {new Date().getFullYear()} Guilherme Bellia. Todos os direitos
             reservados.
           </p>
           <p className="text-gray-500 text-sm mt-2">
