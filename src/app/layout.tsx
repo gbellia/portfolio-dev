@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "João Silva - Desenvolvedor Full Stack",
+  title: "Guilherme Bellia - Desenvolvedor Full Stack",
   description:
-    "Portfolio de João Silva, desenvolvedor Full Stack especializado em React, Node.js e tecnologias modernas.",
+    "Portfolio de Guilherme Bellia, desenvolvedor Full Stack especializado em React, Node.js e tecnologias modernas.",
   keywords: [
     "desenvolvedor",
     "full stack",
@@ -24,20 +24,20 @@ export const metadata: Metadata = {
     "typescript",
     "portfolio",
   ],
-  authors: [{ name: "João Silva" }],
-  creator: "João Silva",
+  authors: [{ name: "Guilherme Bellia" }],
+  creator: "Guilherme Bellia",
   openGraph: {
-    title: "João Silva - Desenvolvedor Full Stack",
+    title: "Guilherme Bellia - Desenvolvedor Full Stack",
     description:
-      "Portfolio de João Silva, desenvolvedor Full Stack especializado em React, Node.js e tecnologias modernas.",
+      "Portfolio de Guilherme Bellia, desenvolvedor Full Stack especializado em React, Node.js e tecnologias modernas.",
     type: "website",
     locale: "pt_BR",
   },
   twitter: {
     card: "summary_large_image",
-    title: "João Silva - Desenvolvedor Full Stack",
+    title: "Guilherme Bellia - Desenvolvedor Full Stack",
     description:
-      "Portfolio de João Silva, desenvolvedor Full Stack especializado em React, Node.js e tecnologias modernas.",
+      "Portfolio de Guilherme Bellia, desenvolvedor Full Stack especializado em React, Node.js e tecnologias modernas.",
   },
 };
 
